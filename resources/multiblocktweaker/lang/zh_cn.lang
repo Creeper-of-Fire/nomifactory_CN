@@ -1,0 +1,34 @@
+multiblocktweaker.machine.cryogenicairdistillation.name=低温空气精馏塔
+multiblocktweaker.machine.small_microverse.name=小型微型宇宙投影仪
+multiblocktweaker.machine.medium_microverse.name=中型微型宇宙投影仪
+multiblocktweaker.machine.large_microverse.name=大型微型宇宙投影仪
+multiblocktweaker.machine.oildrillingrig.name=石油钻井
+multiblocktweaker.machine.naquadahreactormk1.name=硅岩反应堆Mk1
+multiblocktweaker.machine.naquadahreactormk2.name=硅岩反应堆Mk2
+multiblocktweaker.machine.lunarminingstation.name=月球采矿站
+
+multiblocktweaker.multiblock.cryogenicairdistillation.description=用于液化空气分馏和惰性气体分馏的低温气体分离装置。
+multiblocktweaker.multiblock.small_microverse.description=一种能够稳定投射到微型宇宙中的机器，用于基本的微型采矿任务。
+multiblocktweaker.multiblock.medium_microverse.description=一种高级机器，能够稳定投射到微型宇宙中，进入太空最深处，执行复杂任务。
+multiblocktweaker.multiblock.large_microverse.description=一种精英机器，能够稳定投射到微型宇宙中，以执行特种任务，包括将微型宇宙整个坍缩.
+multiblocktweaker.multiblock.oildrillingrig.description=一种声称能“钻”出石油的结构，实际上这些石油似乎是从稀薄的空气中产生的。
+multiblocktweaker.multiblock.naquadahreactormk1.description=一种高级机械，通过富集硅岩或超能硅岩的衰变获得可观的能量。
+multiblocktweaker.multiblock.naquadahreactormk2.description=一种高级机械，通过富集硅岩或超能硅岩的衰变获得更多的能量。
+multiblocktweaker.multiblock.lunarminingstation.description=可以在月球上部署的采矿设施。它派遣探测器收集稀有的氦和氢同位素
+
+recipemap.cryogenicairdistillation.name=低温空气精馏塔
+recipemap.small_microverse.name=小型微型采矿任务
+recipemap.medium_microverse.name=中型微型采矿任务
+recipemap.large_microverse.name=大型微型采矿任务
+recipemap.oildrillingrig.name=石油钻井
+recipemap.naquadahreactormk1.name=硅岩反应堆Mk1
+recipemap.naquadahreactormk2.name=硅岩反应堆Mk2
+recipemap.lunarminingstation.name=月球采矿站
+
+gregtech.recipe.chance=Chance: %s%%; 每级翻倍
+
+
+# Multiblock Simulation Chamber
+multiblocktweaker.machine.dml_sim_chamber.name=超级模拟电脑
+multiblocktweaker.multiblock.dml_sim_chamber.description=一种高性能模拟设备，能够以前所未有的速度执行更复杂的模拟。
+recipemap.dml_sim_chamber.name=超级模拟电脑
